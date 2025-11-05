@@ -1,1 +1,1 @@
-# files
+[![](https://data.jsdelivr.com/v1/package/gh/labex-labs/files/badge)](https://www.jsdelivr.com/package/gh/labex-labs/files)
